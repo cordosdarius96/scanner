@@ -8,5 +8,4 @@ Build: Android Studio
 
 Foloseste: java, firebase.
 
-
-
+![](Imagini/1.jfif)
