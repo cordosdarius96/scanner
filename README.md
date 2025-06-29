@@ -1,8 +1,4 @@
-Nume Proiect: GAME ON
-
-Autor: Cordos Darius-Daniel
-
-Descriere: O aplicatie de telefon care scaneaza qr cod. Contine login si register.
+Descriere: Phone application with QR scanner. Contains Login and also Register.
 
 Build: Android Studio
 
